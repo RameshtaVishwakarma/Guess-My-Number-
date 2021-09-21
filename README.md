@@ -12,7 +12,7 @@ with DOM Elements and how they can be manipulated using javascript
 
 The Website is currently Deployed on GitHub pages:
 
-[GitHub Finder](https://rameshtavishwakarma.github.io/Guess-My-Number-/)
+[Guess My Number](https://rameshtavishwakarma.github.io/Guess-My-Number-/)
 
 
   
