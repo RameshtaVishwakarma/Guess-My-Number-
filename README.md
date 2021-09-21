@@ -10,7 +10,7 @@ with DOM Elements and how they can be manipulated using javascript
 
 ## Deployment
 
-The Website is currently Deployed on GitHub pages:
+The project is currently Deployed on GitHub pages:
 
 [Guess My Number](https://rameshtavishwakarma.github.io/Guess-My-Number-/)
 
