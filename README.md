@@ -8,4 +8,11 @@ with DOM Elements and how they can be manipulated using javascript
 
 **Fronted:** HTML, vanilla Javascript, CSS. 
 
+## Deployment
+
+The Website is currently Deployed on GitHub pages:
+
+[GitHub Finder](https://rameshtavishwakarma.github.io/Guess-My-Number-/)
+
+
   
